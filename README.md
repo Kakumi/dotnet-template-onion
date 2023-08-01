@@ -7,6 +7,7 @@
 A .NET/.NET Core template to use Onion Architecture and DDD (Domain Driven Design) with CQRS and ES with a simple example on how to use all this architecture together from the Controller until the Repository class using Domain objects and different patterns.
 
 [From tutorial on medium](https://pereiren.medium.com/a-simple-template-for-onion-architecture-with-net-5-6c0e2f3b29c8)
+
 [Another good tutorial with different structure](https://medium.com/nerd-for-tech/onion-architecture-in-net-5-deb04efe9df0)
 
 ### Documentation
